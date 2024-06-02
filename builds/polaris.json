@@ -1,16 +1,16 @@
 {
   "response": [
     {
-      "maintainer": "Joey Huab - Anierin Bliss | Maintainer : Onelots",
+      "maintainer": "Onelots",
       "oem": "",
       "device": "Polaris",
-      "filename": "",
+      "filename": "coucou.zip",
       "download": "",
       "timestamp": 1717334485,
       "md5": "4bdc3db136929b71bf3f44fe71219c04",
       "sha256": "f6e11ae11dd551e04f4d75d46f3fe085ea483dd1833bcad6aa899fd220149b71",
       "size": 1852215615,
-      "version": "9.0",
+      "version": "9.1",
       "buildtype": "",
       "forum": "",
       "firmware": "",
