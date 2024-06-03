@@ -1,1 +1,3 @@
-test
+May Security Patch (QPR2)
+Now support double tap
+#NeverStopEvolving !
