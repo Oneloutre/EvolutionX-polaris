@@ -4,18 +4,18 @@
       "maintainer": "Onelots",
       "oem": "",
       "device": "Polaris",
-      "filename": "coucou.zip",
-      "download": "",
+      "filename": "EvolutionX-14.0-20240602-polaris-v9.0-Unofficial.zip",
+      "download": "https://github.com/Oneloutre/EvolutionX-polaris/releases/download/9.0/EvolutionX-14.0-20240602-polaris-v9.0-Unofficial.zip",
       "timestamp": 1717334487,
       "md5": "8517163145ff23617f52bfad3b7a8905",
       "sha256": "1606552c11572f0d2ec13aa99b7b378e5eed730a2d9a2392739db9db884a98be",
       "size": 1855852272,
-      "version": "9",
+      "version": "9.0",
       "buildtype": "Normal",
       "forum": "",
       "firmware": "",
       "paypal": "https://www.paypal.me/0nelots",
-      "telegram": ""
+      "telegram": "https://t.me/onelots"
     }
   ]
 }
