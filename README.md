@@ -7,6 +7,8 @@
 EvolutionX for Xiaomi mi mix 2S  - Polaris
 
 
+# Build is signed by default, which means that it passes BASIC_INTEGRITY and DEVICE_INTEGRITY out of the box.
+
 ---
 
 ```bash
