@@ -1,3 +1,6 @@
 May Security Patch (QPR2)
 Now support double tap
+----
+Added QS styles
+----
 #NeverStopEvolving !
