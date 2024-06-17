@@ -307,31 +307,23 @@ Reach us on Twitter! [@EvolutionXROM](https://twitter.com/EvolutionXROM)
 
 <u>First Time Install</u>:
 ```bash
-(Note: These releases include firmware)
-1. Download boot, dtbo, vendor_boot & rom for your device from here
-2. Reboot to bootloader
-3. fastboot flash boot boot.img
-fastboot flash dtbo dtbo.img
-fastboot flash vendor_boot vendor_boot.img
-fastboot reboot recovery
-4. While in recovery, navigate to Factory reset -> Format data/factory reset and confirm to format the device.
-5. When done formatting, go back to the main menu and then navigate to Apply update -> Apply from ADB
-6. adb sideload rom.zip (replace "rom" with actual filename)
-7 (optional). Reboot to recovery (fully) to sideload any add-ons (e.g magisk)
-8. Reboot to system & #KeepEvolving
+1. Install OrangeFox and flash the rom like any other rom
+2. If coming from an other signed rom, maybe you'll need to clean flash
+3. A recovery is provided by default in the rom zip, you can use it but it's not mandatory
+4. (optional). Reboot to recovery (fully) to sideload any add-ons (e.g magisk)
+5. Reboot to system & #KeepEvolving
 ```
 
 <u>Update</u>:
 ```bash
 1. Reboot to recovery
-2. While in recovery, navigate to Apply update -> Apply from ADB
-3. adb sideload rom.zip (replace "rom" with actual filename)
+2. Flash the rom (it won't erase your data if you don't wipe /data)
 4 (optional). Reboot to recovery to sideload any add-ons (e.g magisk)
 5. Reboot to system & #KeepEvolving
 ```
 
 <u>OTA</u>:
 ```bash
-1. Check for update. If available, select "Download and install" (approx 10-15 min)
+1. Check for update. If available, select "Download and install" (approx 10-15 min, depends on your internet)
 2. Reboot & #KeepEvolving
 ```
