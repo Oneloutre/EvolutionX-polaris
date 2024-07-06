@@ -1,6 +1,4 @@
-May Security Patch (QPR2)
-Now support double tap
-----
-Added QS styles
+June Security Patch (QPR3)
+Device certified by default
 ----
 #NeverStopEvolving !
